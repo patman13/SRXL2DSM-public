@@ -3,7 +3,7 @@
 
 Konverter für Multiplex SRXL nach Spektrum DSM-TX-Modul
 
-Dieses Programm liest die SRLX Daten eine Multiplex Empfängers ein, passt die Daten an und
+Dieses Programm liest die SRLX Daten eines Multiplex Empfängers ein, passt die Daten an und
 sendet die Daten an ein Spektrum-DSM-Modul.
 
 Damit ist es möglich seine gewohne Multiplex-Fernsteuerung zu verwenden und Modell mit Spektrum-Empfänger (z.B. Horizon Hobby Blade Helikopter, E-Flite UMX Flugzeuge) zu steuern.
