@@ -1,7 +1,5 @@
 
--------------------------------------------------------------------------------------------------------
-
-# SRXL2DSM Software #
+# SRXL2DSM Software Licence #
 
 Patrick Breidenbach, Germany, 03-2016
 
