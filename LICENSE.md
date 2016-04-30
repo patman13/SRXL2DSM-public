@@ -3,8 +3,7 @@
 
 Patrick Breidenbach, Germany, 03-2016
 
-![](https://licensebuttons.net/l/by-nd/3.0/de/88x31.png)
-[[https://licensebuttons.net/l/by-nd/3.0/de/88x31.png]]
+![CC](https://licensebuttons.net/l/by-nd/3.0/de/88x31.png)
 
 Dieses Werk ist lizenziert unter einer
 Creative Commons Namensnennung-Keine Bearbeitung 3.0 Deutschland Lizenz.
